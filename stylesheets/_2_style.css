@@ -1,0 +1,41 @@
+.article {}
+
+.article__header {}
+
+.article__text {}
+
+.article__enum {}
+
+.article__section {}
+
+.header {}
+
+.header__text {}
+
+.header__text--small {}
+
+.header__text--big {}
+
+.enum {}
+
+.enum__item {}
+
+.section {}
+
+.section__header {}
+
+.section__text {}
+
+.section__blocquote {}
+
+.section_figure {}
+
+.figure {}
+
+.figure__img {}
+
+.figcaption {}
+
+.figure__figcaption {}
+
+.img {}
