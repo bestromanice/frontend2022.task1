@@ -1,7 +1,9 @@
-.nav__menu {}
-
-.nav__menu--breadcrumbs {}
+.nav {}
 
 .nav__item {}
 
 .nav__item--home {}
+
+.menu {}
+
+.breadcrumbs {}
