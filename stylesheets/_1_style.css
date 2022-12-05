@@ -1,9 +1,15 @@
-.nav {}
+.breadcrumbs {}
 
-.nav__item {}
+.breadcrumbs__list {}
 
-.nav__item--home {}
+.breadcrumbs__item {}
+
+.breadcrumbs__link {}
 
 .menu {}
 
-.breadcrumbs {}
+.menu__list {}
+
+.menu__item {}
+
+.menu__link {}
